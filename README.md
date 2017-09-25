@@ -20,10 +20,10 @@ Foreword to the Rails 5 Edition
 Preface to the Rails 5 Edition
 Acknowledgments
 Introduction
-[ ] Rails Simply Feels Right
-[ ] Rails Is Agile
-[ ] Who This Book Is For
-[ ] How to Read This Book
+[x] Rails Simply Feels Right
+[x] Rails Is Agile
+[x] Who This Book Is For
+[x] How to Read This Book
 Part I. Getting Started
 1. Installing Rails
 [ ] Installing on Cloud9
