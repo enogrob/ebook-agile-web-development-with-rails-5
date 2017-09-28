@@ -26,14 +26,14 @@ Introduction
 [x] How to Read This Book
 Part I. Getting Started
 1. Installing Rails
-[ ] Installing on Cloud9
-[ ] Installing on a Virtual Machine
-[ ] Installing on Windows
-[ ] Installing on Mac OS X
-[ ] Installing on Linux
-[ ] Choosing a Rails Version
-[ ] Setting Up Your Development Environment
-[ ] Rails and Databases
+[x] Installing on Cloud9
+[x] Installing on a Virtual Machine
+[x] Installing on Windows
+[x] Installing on Mac OS X
+[x] Installing on Linux
+[x] Choosing a Rails Version
+[x] Setting Up Your Development Environment
+[x] Rails and Databases
 2. Instant Gratification
 [ ] Creating a New Application
 [ ] Hello, Rails!
