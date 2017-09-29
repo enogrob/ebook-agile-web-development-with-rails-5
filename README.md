@@ -35,10 +35,10 @@ Part I. Getting Started
 [x] Setting Up Your Development Environment
 [x] Rails and Databases
 2. Instant Gratification
-[ ] Creating a New Application
-[ ] Hello, Rails!
-[ ] Linking Pages Together
-[ ] When Things Go Wrong
+[x] Creating a New Application
+[x] Hello, Rails!
+[x] Linking Pages Together
+[x] When Things Go Wrong
 3. The Architecture of Rails Applications
 [ ] Models, Views, and Controllers
 [ ] Rails Model Support
