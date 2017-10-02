@@ -44,13 +44,13 @@ Part I. Getting Started
 [x] Rails Model Support
 [x] Action Pack: The View and Controller
 4. Introduction to Ruby
-[ ] Ruby Is an Object-Oriented Language
-[ ] Data Types
-[ ] Logic
-[ ] Organizing Structures
-[ ] Marshaling Objects
-[ ] Pulling It All Together
-[ ] Ruby Idioms
+[x] Ruby Is an Object-Oriented Language
+[x] Data Types
+[x] Logic
+[x] Organizing Structures
+[x] Marshaling Objects
+[x] Pulling It All Together
+[x] Ruby Idioms
 Part II. Building an Application
 5. The Depot Application
 [ ] Incremental Development
