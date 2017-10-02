@@ -53,9 +53,9 @@ Part I. Getting Started
 [x] Ruby Idioms
 Part II. Building an Application
 5. The Depot Application
-[ ] Incremental Development
-[ ] What Depot Does
-[ ] Let’s Code
+[x] Incremental Development
+[x] What Depot Does
+[x] Let’s Code
 6. Task A: Creating the Application
 [ ] Iteration A1: Creating the Product Maintenance Application
 [ ] Iteration A2: Making Prettier Listings
