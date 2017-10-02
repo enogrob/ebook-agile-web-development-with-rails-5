@@ -40,9 +40,9 @@ Part I. Getting Started
 [x] Linking Pages Together
 [x] When Things Go Wrong
 3. The Architecture of Rails Applications
-[ ] Models, Views, and Controllers
-[ ] Rails Model Support
-[ ] Action Pack: The View and Controller
+[x] Models, Views, and Controllers
+[x] Rails Model Support
+[x] Action Pack: The View and Controller
 4. Introduction to Ruby
 [ ] Ruby Is an Object-Oriented Language
 [ ] Data Types
