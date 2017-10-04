@@ -57,8 +57,8 @@ Part II. Building an Application
 [x] What Depot Does
 [x] Let’s Code
 6. Task A: Creating the Application
-[ ] Iteration A1: Creating the Product Maintenance Application
-[ ] Iteration A2: Making Prettier Listings
+[x] Iteration A1: Creating the Product Maintenance Application
+[x] Iteration A2: Making Prettier Listings
 7. Task B: Validation and Unit Testing
 [ ] Iteration B1: Validating!
 [ ] Iteration B2: Unit Testing of Models
