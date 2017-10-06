@@ -60,8 +60,8 @@ Part II. Building an Application
 [x] Iteration A1: Creating the Product Maintenance Application
 [x] Iteration A2: Making Prettier Listings
 7. Task B: Validation and Unit Testing
-[ ] Iteration B1: Validating!
-[ ] Iteration B2: Unit Testing of Models
+[x] Iteration B1: Validating!
+[x] Iteration B2: Unit Testing of Models
 8. Task C: Catalog Display
 [ ] Iteration C1: Creating the Catalog Listing
 [ ] Iteration C2: Adding a Page Layout
