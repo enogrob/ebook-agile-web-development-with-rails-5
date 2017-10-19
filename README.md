@@ -63,7 +63,7 @@ Part II. Building an Application
 [x] Iteration B1: Validating!
 [x] Iteration B2: Unit Testing of Models
 8. Task C: Catalog Display
-[ ] Iteration C1: Creating the Catalog Listing
+[x] Iteration C1: Creating the Catalog Listing
 [ ] Iteration C2: Adding a Page Layout
 [ ] Iteration C3: Using a Helper to Format the Price
 [ ] Iteration C4: Functional Testing of Controllers
